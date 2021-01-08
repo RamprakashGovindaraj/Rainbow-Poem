@@ -7,3 +7,10 @@ Adding colors
   Magenta
   Indigo
   Brown
+ 
+Adding myHobbies
+  browsering 
+  cryptoinvestment
+  reading books
+  reparing computers
+  coding
