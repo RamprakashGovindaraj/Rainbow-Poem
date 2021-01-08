@@ -7,6 +7,4 @@ Adding colors
   Magenta
   Indigo
   Brown
-  Orange
-  Pale Green
-  Aqua Blue
+
