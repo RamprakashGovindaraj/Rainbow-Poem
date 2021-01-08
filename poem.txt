@@ -7,9 +7,6 @@ Adding colors
   Magenta
   Indigo
   Brown
-  
-  
-  
  
 Adding myHobbies
   browsering 
@@ -18,3 +15,14 @@ Adding myHobbies
   reparing computers
   coding
   thinking
+
+Adding vehicles
+  bikes 
+  motorcycles
+  gas car 
+  EV's
+  trucks
+  airplane 
+  helicopter
+  jet 
+  space rockets
