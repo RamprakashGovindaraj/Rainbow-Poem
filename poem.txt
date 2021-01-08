@@ -2,26 +2,9 @@ Adding colors
   Yellow 
   Blue 
   Green 
-  violet 
+  Violet 
   Red
   Magenta
   Indigo
   Brown
- 
-Adding myHobbies
-  browsering 
-  cryptoinvestment
-  reading books
-  reparing computers
-  coding
 
-Adding vehicles
-  bikes 
-  motorcycles
-  gas car 
-  EV's
-  trucks
-  airplane 
-  helicopter
-  jet 
-  space rockets
