@@ -1,7 +1,9 @@
-Adding colors of Rainbow 
+Adding colors
   Yellow 
   Blue 
   Green 
   violet 
   Red
-  
+  Magenta
+  Indigo
+  Brown
