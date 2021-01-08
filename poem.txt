@@ -2,11 +2,14 @@ Adding colors
   Yellow 
   Blue 
   Green 
-  violet 
+  Violet 
   Red
   Magenta
   Indigo
   Brown
+  
+  
+  
  
 Adding myHobbies
   browsering 
