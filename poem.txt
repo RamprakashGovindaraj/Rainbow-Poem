@@ -2,8 +2,11 @@ Adding colors
   Yellow 
   Blue 
   Green 
-  violet 
+  Violet 
   Red
   Magenta
   Indigo
   Brown
+  Orange
+  Pale Green
+  Aqua Blue
